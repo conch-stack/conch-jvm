@@ -1,4 +1,2 @@
-# beihu-jvm
+# Beihu-JVM
 JVM Learning
-
-TODOIng
