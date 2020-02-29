@@ -23,6 +23,4 @@ JVM Learning
 
 
 
-adam.zheng
-
-adam.zheng@gaodun.com
+代码覆盖工具：[JaCoCo](https://www.jacoco.org/jacoco/)
